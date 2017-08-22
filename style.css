@@ -1,0 +1,68 @@
+body {
+  height: 100vh !important;
+  font-family: 'Abel', sans-serif !important;
+  font-size: 3vh !important;
+  background-color: #1485CC !important;
+  color: white !important;
+}
+
+#background {
+  height: 100%;
+  padding-top: 6vh;
+}
+
+.container {
+  top: 10vh;
+  padding: 10vw !important;
+  padding-top: 6vw !important;
+  background-color: rgba(240,240,240,.75) !important;
+  height: 60vh;
+  border-radius: 1%;
+  color: #009DFF !important;
+}
+
+#title, #quote {
+  font-family: 'Dosis', sans-serif !important;
+}
+
+#title {
+  font-size: 8vh !important;
+}
+
+#quote {
+  font-size: 6vh;
+}
+
+#newQuote {
+  float: right !important;
+}
+
+.btn {
+  font-size: 3vh !important;
+}
+
+a {
+  text-decoration: none !important;
+  color: rgb(20,133,204) !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+  color: rgba(20,133,204,.6) !important;
+}
+
+.a-red {
+  color: rgb(178,18,18) !important;
+}
+
+.a-red:hover {
+  color: rgba(178,18,18,.6) !important;
+}
+
+.a-orange {
+  color: rgb(255,135,0) !important;
+}
+
+.a-orange:hover {
+  color: rgba(255,135,0,.6) !important;
+}
